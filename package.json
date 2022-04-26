@@ -1,0 +1,17 @@
+{
+  "name": "bonga",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "",
+  "license": "ISC",
+  "dev": "connectFirebase.js",
+  "dependencies": {
+    "await-timeout": "^1.1.1",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "4.17.1",
+    "firebase-admin": "10.0.0",
+    "puppeteer": "^13.5.2",
+    "ws": "^8.5.0"
+  }
+}
